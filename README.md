@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Fatenhisham/c-_tasks/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Fatenhisham/c-_tasks/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Fatenhisham/c-_tasks/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -24,4 +25,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/Fatenhisham/c-_tasks/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Fatenhisham/c-_tasks/tree/master/0013-roman-to-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Fatenhisham/c-_tasks/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Fatenhisham/c-_tasks/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
