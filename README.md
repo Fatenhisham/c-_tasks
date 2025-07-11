@@ -43,4 +43,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Fatenhisham/c-_tasks/tree/master/0204-count-primes) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Fatenhisham/c-_tasks/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Fatenhisham/c-_tasks/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
